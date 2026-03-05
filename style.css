@@ -18,3 +18,8 @@ body{
 .flex{
     display: flex;
 }
+
+.red{
+    background-color: rgb(247, 250, 88);
+    padding-right: 80px;
+}
