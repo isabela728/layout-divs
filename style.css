@@ -20,6 +20,9 @@ body{
 }
 
 .red{
-    background-color: rgb(247, 250, 88);
     padding-right: 80px;
+}
+
+.green{
+    padding-bottom: 80px;
 }
