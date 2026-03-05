@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    align-items: flex-start;
+}
+
+.blue{
+    background-color: rgb(98, 98, 255);
+    padding: 20px;
+}
